@@ -1,0 +1,6 @@
+Inception,sci-fi,9
+Dune,sci-fi,8
+Oppenheimer,drama,9
+Interstellar,sci-fi,10
+The Batman,action,10
+Michael,drama,8
